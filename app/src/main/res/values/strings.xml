@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDoListApp</string>
+    <string name="search">Search</string>
+    <string name="sort">Sort</string>
+    <string name="hide_compeleted">Hide Compeleted</string>
+    <string name="sort_by_name">Sort by name</string>
+    <string name="sort_by_created">Sort by created</string>
+    <string name="delete_all_completed">Delete All Completed</string>
+</resources>
